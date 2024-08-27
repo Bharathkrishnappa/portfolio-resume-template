@@ -677,4 +677,19 @@ footer span a:hover{
         font-size: 23px;
         line-height: 38px;
     }
+    .Download CV {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.Download CV:hover {
+    background-color: #45a049;
+}
+
 }
